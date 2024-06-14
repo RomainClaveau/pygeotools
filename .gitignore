@@ -1,0 +1,3 @@
+# Avoiding Python's cached scripts
+*__pycache__
+*.pyc
